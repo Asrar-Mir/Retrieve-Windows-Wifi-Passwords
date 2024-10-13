@@ -1,3 +1,4 @@
+clear
 $Host.UI.RawUI.ForegroundColor = "Green"
 $asciiArt = @"
 ▄▄▄        ██████  ██▀███   ▄▄▄       ██▀███      ███▄ ▄███▓ ██▓ ██▀███  
